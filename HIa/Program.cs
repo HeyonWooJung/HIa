@@ -11,6 +11,7 @@ namespace HIa
         static void Main(string[] args)
         {
             Console.WriteLine("뭔가");
+            Console.WriteLine("뭔가뭔가");
         }
     }
 }
