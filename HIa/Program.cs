@@ -10,7 +10,7 @@ namespace HIa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            Console.WriteLine("뭔가");
         }
     }
 }
