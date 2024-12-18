@@ -12,6 +12,8 @@ namespace HIa
         {
             Console.WriteLine("뭔가");
             Console.WriteLine("뭔가뭔가");
+            Console.WriteLine("5");
+            Console.WriteLine("6");
         }
     }
 }
